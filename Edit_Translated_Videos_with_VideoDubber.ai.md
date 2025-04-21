@@ -1,10 +1,10 @@
-# How to Perfectly Edit Translated Videos with VideoDubber.ai: A Step-by-Step Guide
+# 🎬 How to Perfectly Edit Translated Videos with VideoDubber.ai: A Step-by-Step Guide
 
 ![VideoDubber Editing Workflow](pics/videodubber-editing-workflow.webp)
 
 ---
 
-## **TL;DR: Quick Steps to Edit Translated Videos**
+## ⚡ **TL;DR: Quick Steps to Edit Translated Videos**
 1. **Access Editor**: Click "Edit" on your translated video in the dashboard  
 2. **Basic Edits**: Trim clips + balance audio levels  
 3. **AI Refinements**: Adjust TTS voices, lip-sync, and subtitles  
@@ -15,7 +15,7 @@
 
 ---
 
-## **Why Choose VideoDubber.ai for Video Editing?**
+## ✨ **Why Choose VideoDubber.ai for Video Editing?**
 These features make it the ultimate tool for translated videos:  
 
 🔹 **AI-Powered Lip-Sync**  
@@ -37,13 +37,13 @@ These features make it the ultimate tool for translated videos:
 
 ---
 
-## **Why Editing Matters in Video Translation**
+## 🌟 **Why Editing Matters in Video Translation**
 
 Translating a video is just the first step—professional editing ensures natural pacing, accurate lip-syncing, and polished subtitles. **VideoDubber.ai's** built-in editor simplifies this process with AI-powered tools.
 
 ---
 
-## **Step 1: Accessing the Editing Dashboard**
+## 📂 **Step 1: Accessing the Editing Dashboard**
 
 After translation, follow these steps:
 1. Go to your **Project Dashboard**.
@@ -54,7 +54,7 @@ After translation, follow these steps:
 
 ---
 
-## **Step 2: Basic Video Editing Tools**
+## ✂️ **Step 2: Basic Video Editing Tools**
 
 ### **1. Trimming Unwanted Sections**
 - Drag the **timeline sliders** to remove intros, outros, or pauses.
@@ -68,7 +68,7 @@ After translation, follow these steps:
 
 ---
 
-## **Step 3: Advanced Translation Refinement**
+## 🛠️ **Step 3: Advanced Translation Refinement**
 
 ### **1. Fine-Tune Text-to-Speech (TTS)**
 - **Rephrase translations** for better clarity.
@@ -87,11 +87,9 @@ After translation, follow these steps:
 - Drag subtitles on the timeline to align with spoken words.
 - Edit **font**, **color**, and **position** for readability.
 
-![Subtitle Timing Editor](pics/subtitle-timing-editor.webp)
-
 ---
 
-## **Step 4: Preview and Export**
+## 👁️ **Step 4: Preview and Export**
 
 ### **1. Preview Before Finalizing**
 - Click **"Preview"** to review edits in real time.
@@ -106,7 +104,7 @@ After translation, follow these steps:
 
 ---
 
-## **Pro Tips for Flawless Results**
+## 💡 **Pro Tips for Flawless Results**
 
 ✅ **Save incremental versions** to backtrack if needed.  
 ✅ Use **noise reduction** if background audio interferes.  
@@ -114,8 +112,8 @@ After translation, follow these steps:
 
 ---
 
-## **Ready to Perfect Your Translations?**
+## 🚀 **Ready to Perfect Your Translations?**
 
 VideoDubber.ai combines AI translation with pro-grade editing—no extra software needed.
 
-**[Start Editing Your Video Now](#)**
+**[Start Editing Your Video Now](https://videodubber.ai/)**
